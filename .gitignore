@@ -1,0 +1,30 @@
+# Virtual Environments
+env/
+.venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Ignore settings in .env files
+.env
+
+# PyCharm
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# VSCode
+.vscode/
+
+# Python
+*.pyc
+*.pyo
+*.pyd
+__pycache__/
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
